@@ -16,6 +16,8 @@ Just some changes from Visual Studio Code.
 
 And more changes directly from GitHub.
 
+Our brand new **shiny** changes!
+
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
 ``terms`` that will expand your horizons and 
