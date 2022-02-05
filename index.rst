@@ -12,7 +12,9 @@ own lives, but also *create or
 strengthen* some lasting 
 **bonds between you and them.**
 
-Just some changes from Visual Studio Code
+Just some changes from Visual Studio Code.
+
+And more changes directly from GitHub.
 
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
