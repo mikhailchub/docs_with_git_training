@@ -19,6 +19,8 @@ And more changes directly from GitHub.
 Our brand new **shiny** changes!
 Here am I - doing yet another update :)
 
+**Абзац 4-й: вимоги до системи лояльності**
+
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
 ``terms`` that will expand your horizons and 
